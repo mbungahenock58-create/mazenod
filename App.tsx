@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import PopularCourses from './components/PopularCourses';
-import Categories from './components/Categories';
-import Instructors from './components/Instructors';
-import Testimonials from './components/Testimonials';
-import Stats from './components/Stats';
-import Footer from './components/Footer';
+import Header from '.Header';
+import Hero from '.Hero';
+import PopularCourses from '.PopularCourses';
+import Categories from '.Categories';
+import Instructors from '.Instructors';
+import Testimonials from '.Testimonials';
+import Stats from '.Stats';
+import Footer from '.Footer';
 
 function App() {
   return (
